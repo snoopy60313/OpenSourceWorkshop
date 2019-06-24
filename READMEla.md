@@ -1,3 +1,3 @@
 # OpenSourceWorkshop
 
-Author: Augbasstrd
+Author: Augbasstard
