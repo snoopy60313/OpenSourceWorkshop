@@ -1,3 +1,3 @@
 # OpenSourceWorkshop
 
-Author: Augbasstard
+Author: Augbasstard meow meow
